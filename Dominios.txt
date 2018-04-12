@@ -1,0 +1,29 @@
+CADASTRO
+	Conta Microsoft
+		email
+		senha
+	
+	Conta google
+		email
+		senha
+
+USUÁRIO
+	FORMA DE PAGAMENTO
+		-CARTÃO DE CRÉDITO
+		-CARTAO DE DEBITO
+
+
+ENUNCIADO 
+		
+	PERGUNTA
+		Escolhas
+
+	RESPOSTA
+		Alternativa
+
+Placar
+	TEMPO
+		Tempo de jogo
+	
+
+REPOSITÓRIO
